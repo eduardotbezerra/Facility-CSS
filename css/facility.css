@@ -1,0 +1,96 @@
+.fac-btn-normal{
+  border-radius: 3px;
+  width: 8vw;
+  background: whitesmoke;
+  text-align: center;
+  color: black;
+ font-size: 12pt;
+}.fac-btn-normal:hover{
+  background-color: azure;
+  
+}
+.fac-btn-sucesso{
+  border-radius: 3px;
+  width: 8vw;
+  background: rgb(3, 247, 23);
+  text-align: center;
+  color: black;
+ font-size: 12pt;
+ 
+}.fac-btn-sucesso:hover{
+  background-color: rgb(116, 255, 2);
+  
+}
+.fac-btn-cancelar{
+  border-radius: 3px;
+  width: 8vw;
+  background: rgb(255, 72, 0);
+  text-align: center;
+  color: black;
+ font-size: 12pt;
+}.fac-btn-cancelar:hover{
+  background-color: rgb(238, 119, 8);
+  
+}
+.fac-btn-adicionar{
+  border-radius: 3px;
+  width: 8vw;
+  background: rgb(255, 230, 0);
+  text-align: center;
+  color: black;
+ font-size: 12pt;
+}.fac-btn-adicionar:hover{
+  background-color: rgb(230, 217, 34);
+  
+}
+.fac-label-normal{
+text-align: center;
+color: rgba(31, 29, 29, 0.911);
+
+}.fac-label-normal:hover{
+  background-color: black;
+  color: white;
+  border-radius: 3px;
+}
+.fac-label-sucesso{
+  text-align: center;
+  color: rgb(3, 247, 23);
+ }.fac-label-sucesso:hover{
+  background-color: rgb(116, 255, 2);
+  color: white;
+  border-radius: 3px;
+
+ }
+.fac-label-erro{
+  text-align: center;
+  color: red;
+}.fac-label-erro:hover{
+  background-color: rgb(238, 119, 8);
+  color: white;
+  border-radius: 3px;
+
+}
+/*table*/
+.fac-table-bordada{
+  background-color: white;
+ 
+}.fac-table-bordada:hover{
+  background-color: rgb(221, 211, 211)
+}
+alert{
+  background-color: red;
+}
+.circulo{
+
+  width: 10vh;
+  height:10vh;
+  border-radius: 50%;
+  
+}
+.centralizar{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  align-self: center;
+}
